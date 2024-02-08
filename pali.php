@@ -1,4 +1,4 @@
-<?php
+<
 function Palindrome($MyString) {
   $l = 0;
   $r = strlen($MyString) - 1;
