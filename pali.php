@@ -5,7 +5,7 @@ function Palindrome($MyString) {
   $flag = 0;
 
   while($r > $l){
-    if ($MyString[$l] != $MyString[$r]){
+    if  != $MyString[$r]){
       flag = 1;
       break;
     }
